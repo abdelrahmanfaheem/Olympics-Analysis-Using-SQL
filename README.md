@@ -4,8 +4,13 @@
 This repository contains SQL code for analyzing various aspects of the Olympic Games, including the number of games held, participating nations, sports played, athlete demographics, medal statistics, and country performances.
 
 ## LinkedIn Profile and CV
-Connect with me on LinkedIn: [Abdelrahman Faheem](https://www.linkedin.com/in/abdelrahmanfaheem/)
+🟣🟣Connect with me on LinkedIn: [Abdelrahman Faheem](https://www.linkedin.com/in/abdelrahmanfaheem/)
+
+
 🟣🟣 [My Updated CV](https://www.canva.com/design/DAFhkwb7RQ8/qizC8WamavgwaPWc9O52lg/view?utm_content=DAFhkwb7RQ8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+🟣🟣[Olympics Analysis SQL Code](https://github.com/abdelrahmanfaheem/Olympics-Analysis-Using-SQL/blob/main/Olymbic%20%20Analysis.sql)
+
 
 ## Dataset
 The dataset used for this analysis can be found on Kaggle: [120 Years of Olympic History: Athletes and Results](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
