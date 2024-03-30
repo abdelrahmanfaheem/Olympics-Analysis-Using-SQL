@@ -1,4 +1,4 @@
- -- Question [https://techtfq.com/blog/practice-writing-sql-queries-using-real-dataset]
+
 -- Identify the sport which was played in all summer olympics.
 
  With Total_Summer_game as (
